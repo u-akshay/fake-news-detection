@@ -10,7 +10,6 @@ pandas = "*"
 numpy = "*"
 joblib = "*"
 matplotlib = "*"
-scikit-learn = "*"
 
 [dev-packages]
 
