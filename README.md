@@ -1,7 +1,5 @@
 # fake-news-detection
-This is my first machine learning project
-
-Its a machine learning project to classify whether a news is Real of Fake using help of Naive Bayes algorithm.
+Its a machine learning project to classify whether a news is Real or Fake using help of Naive Bayes algorithm.
 
 <b>System Requirements</b>
   + Python 3.6 or above
