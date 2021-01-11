@@ -7,6 +7,9 @@ name = "pypi"
 streamlit = "*"
 seaborn = "*"
 pandas = "*"
+numpy = "*"
+joblib = "*"
+matplotlib = "*"
 
 [dev-packages]
 
