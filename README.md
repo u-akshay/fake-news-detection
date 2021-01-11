@@ -17,4 +17,6 @@ Its a machine learning project to classify whether a news is Real of Fake using 
   
 ### fake news.py
 To run "fake news.py" file, you need streamlit in your system.
-And use `streamlit run "fake news.py"` to run the file after activate the <b>virtual environment</b> using conda or pipenv.
+And use `streamlit run "fake news.py"` to run the file after activate the <b>virtual environment</b> using <b>conda</b> or <b>pipenv</b>.
+
+
