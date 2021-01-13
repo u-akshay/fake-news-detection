@@ -25,7 +25,7 @@ Our data set contains 6335 rows and 4 columns. Hence the data set have 6335 diff
   + pandas
   + scikit-learn
   + seaborn
-  + stramlit
+  + streamlit
   + joblib
   
 ### fake news.py
