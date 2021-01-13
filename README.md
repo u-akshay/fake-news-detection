@@ -1,5 +1,7 @@
-# fake-news-detection
-Its a machine learning project to classify whether a news is Real or Fake using help of Naive Bayes algorithm.
+# Fake News Detection
+###Akshay U
+Its a machine learning project to classify whether a news is Real or Fake using help of Naive Bayes algorithm.<br>
+The interactive version of the final model is hosted on a web app[https://fakenewsdetectionapp.herokuapp.com/] on Heroku for those who want to play around!
 
 <b>System Requirements</b>
   + Python 3.6 or above
