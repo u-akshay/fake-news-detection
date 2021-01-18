@@ -14,7 +14,7 @@ vectorizer = joblib.load("vectoriszer.joblib")
 st.balloons()
 st.title("Fake News Detection")
 
-news_text = st.text_area("paste the news here:", height=300)
+news_text = st.text_area("PASTE THE NEWS HERE:", height=300)
 submit_button = st.button("CHECK")
 
 if submit_button:
