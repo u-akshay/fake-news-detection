@@ -10,8 +10,11 @@ The interactive version of the final model is hosted on a [web app](https://fake
 In recent years, the use of social media and online newspapers has rapidly increased and which has paved the path to share even the local news to many hands within time. With the usage of social media, users creating and sharing more news than ever before. Some of them are creating fake news and sharing false information. Finding out the fake news is a challenging task. Even an expert could take more time to classify whether it's false or real. In this work, I propose to use a machine learning ensemble approach for the automated classification of news articles. This work will help to identify the relevance of the news, fake or real, with the help of machine learning algorithms.
 
 ## The Model
+### Dataset
+Dataset collected from [Kaggle](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset).
+
 ### Data collection and cleaning
-Our data set contains 6335 rows and 4 columns. Hence the data set have 6335 different <b>Fake</b> or <b>Real</b> news. There were nothing to clean in our data set as its free from NaN values. 
+There is two `.csv` files. `True.csv` and `Fake.csv`. We had combined both, hence we get a single dataset of 43k rows. There is no NaN values in the set of data.
 
 
 ## For the program
